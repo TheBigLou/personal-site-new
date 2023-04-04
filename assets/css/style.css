@@ -349,6 +349,11 @@ section {
   padding: 0;
 }
 
+.lived-places ul {
+  list-style: none;
+  padding: 0;
+}
+
 .about .content ul li {
   margin-bottom: 20px;
   display: flex;
@@ -426,7 +431,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
